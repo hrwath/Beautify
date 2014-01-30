@@ -16,6 +16,6 @@
         "michelf/php-smartypants": "dev-lib"
     },
     "autoload": {
-        "files": ["./beautify.php"]
+        "files": ["beautify.php"]
     }
 }
